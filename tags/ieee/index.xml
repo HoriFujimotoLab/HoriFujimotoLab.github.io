@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IEEE on UTokyo HFLab</title>
-    <link>/tags/ieee/</link>
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieee/</link>
     <description>Recent content in IEEE on UTokyo HFLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ieee/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/tags/ieee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>State Trajectory Generation for MIMO Multirate Feedforward using Singular Value Decomposition and Time Axis Reversal</title>
-      <link>/publication/2019/acc2019_mae/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2019/acc2019_mae/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</guid>
       <description></description>
     </item>
     
