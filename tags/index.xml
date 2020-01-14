@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on UTokyo HFLab</title>
+    <title>Tags | UTokyo HFLab</title>
     <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/</link>
-    <description>Recent content in Tags on UTokyo HFLab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/</link>
+    </image>
     
     <item>
       <title>ACC</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/acc/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/acc/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>IEEE</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieee/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieee/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>NanoScaleServo</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/nanoscaleservo/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/nanoscaleservo/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>EV</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/ev/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/ev/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>IEEJ</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieej/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieej/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>SAMCON</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/samcon/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/samcon/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>JIA</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/jia/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/jia/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>ImageProcessing</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/imageprocessing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/imageprocessing/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>電気学会論文誌D</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/</guid>
       <description></description>
     </item>

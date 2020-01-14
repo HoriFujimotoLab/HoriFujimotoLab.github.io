@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on UTokyo HFLab</title>
+    <title>Authors | UTokyo HFLab</title>
     <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/</link>
-    <description>Recent content in Authors on UTokyo HFLab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/</link>
+    </image>
     
     <item>
       <title>Hiroshi Fujimoto</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/hiroshi-fujimoto/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/hiroshi-fujimoto/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Masahiro Mae</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Wataru Ohnishi</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/wataru-ohnishi/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/wataru-ohnishi/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Hiroyuki Fuse</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/hiroyuki-fuse/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/hiroyuki-fuse/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Kenta Yasuda</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/kenta-yasuda/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/kenta-yasuda/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Michita Yanagita</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/michita-yanagita/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/michita-yanagita/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Nobuhiro Tajima</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/nobuhiro-tajima/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/nobuhiro-tajima/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Seiji Yamamoto</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/seiji-yamamoto/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/seiji-yamamoto/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Yasuhiro Sakoh</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yasuhiro-sakoh/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/yasuhiro-sakoh/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Yutaka Awazuhara</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yutaka-awazuhara/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/yutaka-awazuhara/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>Yoichi Hori</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yoichi-hori/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/yoichi-hori/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>Yoshi Ri</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yoshi-ri/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/yoshi-ri/</guid>
       <description></description>
     </item>
@@ -123,10 +112,11 @@
       <title></title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/authors/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

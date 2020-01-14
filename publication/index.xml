@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on UTokyo HFLab</title>
+    <title>Publications | UTokyo HFLab</title>
     <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/</link>
-    <description>Recent content in Publications on UTokyo HFLab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/</link>
+    </image>
     
     <item>
       <title>State Trajectory Generation for MIMO Multirate Feedforward using Singular Value Decomposition and Time Axis Reversal</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Experimental Verification of Driving Force Controller Using High-Power Racing Electric Vehicle</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190305_samcon2019_fuse/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190305_samcon2019_fuse/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Perfect Tracking Control Considering Generalized Controllability Indices and Application for High-Precision Stage in Translation and Pitching</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>FFTに基づくロバストな画像のレジストレーション手法の設計</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</guid>
       <description></description>
     </item>
