@@ -2,245 +2,245 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | UTokyo HFLab</title>
-    <link>publication.hflab.k.u-tokyo.ac.jp/publication/</link>
-      <atom:link href="publication.hflab.k.u-tokyo.ac.jp/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/</link>
     </image>
     
     <item>
       <title>Recent progress of Wireless In-Wheel Motors for dymamic charging</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/cerv2020_fujita/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/cerv2020_fujita/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/cerv2020_fujita/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/cerv2020_fujita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Driving Force Controller with Variable Slip Ratio Limiter for Electric Vehicle Considering Lateral Slip Based on Brush Model</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/vppc2019_fuse/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/vppc2019_fuse/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/vppc2019_fuse/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/vppc2019_fuse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Benchmark of Yaw Rate Controllers by Active Front Steering: Comparative Analysis of Model Predictive Control, Linear Quadratic Regulator and Yaw Moment Observer</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_miyahara/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_miyahara/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_miyahara/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_miyahara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensorless Vehicle Detection Using Voltage Pulses with Envelope Model for In-motion Wireless Power Transfer System</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projection-based Iterative Learning Control for Ball-screw-driven Stage Using Basis Function and Data-based Friction Model</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_hayashi/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_hayashi/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_hayashi/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_hayashi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influence of Tire on Wireless Power Transfer from Road to Electric Vehicle</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intersample Behavior Analysis of MIMO Multirate Feedforward Control depending on Selection of Input Multiplicities</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/ifac2019_mae/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ifac2019_mae/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/ifac2019_mae/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ifac2019_mae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>State Trajectory Generation for MIMO Multirate Feedforward using Singular Value Decomposition and Time Axis Reversal</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charging Infrastructure Design for In-motion WPT Based on Sensorless Vehicle Detection System</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coupling Coefficient Estimation for Wireless Power Transfer System at Constant Input Power Operation        </title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_nawada/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_nawada/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_nawada/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_nawada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feasibility Study on In-motion Wireless Power Transfer System Before Traffic Lights Section</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_gunji/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_gunji/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_gunji/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_gunji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutual Inductance Modeling of In-wheel Arc-shaped Coil for In-motion WPT</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_shimizu/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_shimizu/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_shimizu/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_shimizu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensorless Automatic Stop Control of Electric Vehicle in Semi-dynamic Wireless Charging System</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Driving Force Controller for Electric Vehicle Considering Sideslip Angle Based on Brush Model</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_fuse/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_fuse/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_fuse/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_fuse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feedforward Transient Control for In-motion Wireless Power Transfer using Envelope Model</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gear Collision Reduction of In-wheel-motor by Joint Torque Control Using Load-side High-resolution Encoder</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stop Position Estimation for Automatic Stop Control of Electric Vehicle in Semi-dynamic Wireless Charging System</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vibration Control for Electric Vehicle with In-Wheel Motors on Slippery Road using Driving Force Control</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_suzuki/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_suzuki/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_suzuki/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_suzuki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental Verification of Driving Force Controller Using High-Power Racing Electric Vehicle</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_fuse/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_fuse/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_fuse/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_fuse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Study of Iterative Learning Control Using Basis Functions for Various Tasks of a Ball-screw-driven Stage</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hayashi/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hayashi/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hayashi/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hayashi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improvement of usability of power-assisted cart with torque sensor built in driving wheel</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_kitayoshi/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_kitayoshi/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_kitayoshi/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_kitayoshi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-mass DOB Robust to Elastic Coefficient Variation for Collaborative Robot Joint Using Joint Torque Sensor and Encoders</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hasegawa/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hasegawa/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hasegawa/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hasegawa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perfect Tracking Control Considering Generalized Controllability Indices and Application for High-Precision Stage in Translation and Pitching</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FFTに基づくロバストな画像のレジストレーション手法の設計</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Efficient Autonomous Driving of Electric Vehicle with Real-Time Optimization Using Linear Quadratic Regulator</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hattori/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hattori/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hattori/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hattori/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Input Voltage Control Scheme for High Efficiency Operation of Multi-axis High-Precision Wireless Powered Stage</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_katada/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_katada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_katada/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_katada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximum Efficiency Operation of Wireless In-Wheel Motor Using Pulse Amplitude Modulation</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_tajima/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_tajima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_tajima/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_tajima/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precision tracking control by pneumatic actuator: challenges for input delay and acoustic vibrations</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_ohnishi/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_ohnishi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_ohnishi/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_ohnishi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RRT-Based Path Planning Considering Initial and Final Pose for Nonholonomic Wheeled Robots</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_sobue/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_sobue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_sobue/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_sobue/</guid>
       <description></description>
     </item>
     

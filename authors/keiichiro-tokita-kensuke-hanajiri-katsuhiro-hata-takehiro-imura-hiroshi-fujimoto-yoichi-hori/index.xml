@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keiichiro Tokita, Kensuke Hanajiri, Katsuhiro Hata, Takehiro Imura, Hiroshi Fujimoto, Yoichi Hori | UTokyo HFLab</title>
-    <link>publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita-kensuke-hanajiri-katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori/</link>
-      <atom:link href="publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita-kensuke-hanajiri-katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita-kensuke-hanajiri-katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita-kensuke-hanajiri-katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori/index.xml" rel="self" type="application/rss+xml" />
     <description>Keiichiro Tokita, Kensuke Hanajiri, Katsuhiro Hata, Takehiro Imura, Hiroshi Fujimoto, Yoichi Hori</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Keiichiro Tokita, Kensuke Hanajiri, Katsuhiro Hata, Takehiro Imura, Hiroshi Fujimoto, Yoichi Hori</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita-kensuke-hanajiri-katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita-kensuke-hanajiri-katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori/</link>
     </image>
     
     <item>
       <title>Feedforward Transient Control for In-motion Wireless Power Transfer using Envelope Model</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katsuhiro Hata, Takehiro Imura, Hiroshi Fujimoto, Yoichi Hori, Daisuke Gunji | UTokyo HFLab</title>
-    <link>publication.hflab.k.u-tokyo.ac.jp/authors/katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori-daisuke-gunji/</link>
-      <atom:link href="publication.hflab.k.u-tokyo.ac.jp/authors/katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori-daisuke-gunji/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori-daisuke-gunji/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori-daisuke-gunji/index.xml" rel="self" type="application/rss+xml" />
     <description>Katsuhiro Hata, Takehiro Imura, Hiroshi Fujimoto, Yoichi Hori, Daisuke Gunji</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Katsuhiro Hata, Takehiro Imura, Hiroshi Fujimoto, Yoichi Hori, Daisuke Gunji</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/authors/katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori-daisuke-gunji/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/katsuhiro-hata-takehiro-imura-hiroshi-fujimoto-yoichi-hori-daisuke-gunji/</link>
     </image>
     
     <item>
       <title>Charging Infrastructure Design for In-motion WPT Based on Sensorless Vehicle Detection System</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</guid>
       <description></description>
     </item>
     

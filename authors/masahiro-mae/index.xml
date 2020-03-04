@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Masahiro Mae | UTokyo HFLab</title>
-    <link>publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</link>
-      <atom:link href="publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/index.xml" rel="self" type="application/rss+xml" />
     <description>Masahiro Mae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Masahiro Mae</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</link>
     </image>
     
     <item>
       <title>Perfect Tracking Control Considering Generalized Controllability Indices and Application for High-Precision Stage in Translation and Pitching</title>
-      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</link>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</guid>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/190301_ieej_mae/</guid>
       <description></description>
     </item>
     
