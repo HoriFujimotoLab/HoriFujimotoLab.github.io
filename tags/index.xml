@@ -5,7 +5,7 @@
     <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/</link>
       <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,50 +13,18 @@
     </image>
     
     <item>
-      <title>ACC</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/acc/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/acc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IEEE</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieee/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NanoScaleServo</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/nanoscaleservo/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/nanoscaleservo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EV</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/ev/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/ev/</guid>
+      <title>WIP</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/wip/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/wip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IEEJ</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieej/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/ieej/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SAMCON</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/samcon/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/samcon/</guid>
       <description></description>
     </item>
     
@@ -65,6 +33,14 @@
       <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/jia/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NanoScaleServo</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/nanoscaleservo/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/tags/nanoscaleservo/</guid>
       <description></description>
     </item>
     
