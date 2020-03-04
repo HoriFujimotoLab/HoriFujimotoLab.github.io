@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seigo Wakui, Tomoki Enmei, Hiroshi Fujimoto, Yoichi Hori, Kenji Omata | UTokyo HFLab</title>
-    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/seigo-wakui-tomoki-enmei-hiroshi-fujimoto-yoichi-hori-kenji-omata/</link>
-      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/seigo-wakui-tomoki-enmei-hiroshi-fujimoto-yoichi-hori-kenji-omata/index.xml" rel="self" type="application/rss+xml" />
+    <link>publication.hflab.k.u-tokyo.ac.jp/authors/seigo-wakui-tomoki-enmei-hiroshi-fujimoto-yoichi-hori-kenji-omata/</link>
+      <atom:link href="publication.hflab.k.u-tokyo.ac.jp/authors/seigo-wakui-tomoki-enmei-hiroshi-fujimoto-yoichi-hori-kenji-omata/index.xml" rel="self" type="application/rss+xml" />
     <description>Seigo Wakui, Tomoki Enmei, Hiroshi Fujimoto, Yoichi Hori, Kenji Omata</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Seigo Wakui, Tomoki Enmei, Hiroshi Fujimoto, Yoichi Hori, Kenji Omata</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/seigo-wakui-tomoki-enmei-hiroshi-fujimoto-yoichi-hori-kenji-omata/</link>
+      <link>publication.hflab.k.u-tokyo.ac.jp/authors/seigo-wakui-tomoki-enmei-hiroshi-fujimoto-yoichi-hori-kenji-omata/</link>
     </image>
     
     <item>
       <title>Gear Collision Reduction of In-wheel-motor by Joint Torque Control Using Load-side High-resolution Encoder</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</link>
+      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</guid>
+      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</guid>
       <description></description>
     </item>
     

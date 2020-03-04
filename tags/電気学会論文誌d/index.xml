@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>電気学会論文誌D | UTokyo HFLab</title>
-    <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/</link>
-      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/index.xml" rel="self" type="application/rss+xml" />
+    <link>publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/</link>
+      <atom:link href="publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/index.xml" rel="self" type="application/rss+xml" />
     <description>電気学会論文誌D</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>電気学会論文誌D</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/</link>
+      <link>publication.hflab.k.u-tokyo.ac.jp/tags/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E8%AA%8Cd/</link>
     </image>
     
     <item>
       <title>FFTに基づくロバストな画像のレジストレーション手法の設計</title>
-      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</link>
+      <link>publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</guid>
+      <guid>publication.hflab.k.u-tokyo.ac.jp/publication/2019/ieej_d_ri_2019/</guid>
       <description></description>
     </item>
     
