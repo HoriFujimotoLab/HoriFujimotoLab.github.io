@@ -5,12 +5,28 @@
     <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</link>
       <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/index.xml" rel="self" type="application/rss+xml" />
     <description>Masahiro Mae</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Masahiro Mae</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/masahiro-mae/</link>
     </image>
+    
+    <item>
+      <title>Intersample Behavior Analysis of MIMO Multirate Feedforward Control depending on Selection of Input Multiplicities</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ifac2019_mae/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/ifac2019_mae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Trajectory Generation for MIMO Multirate Feedforward using Singular Value Decomposition and Time Axis Reversal</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/acc2019_mae/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perfect Tracking Control Considering Generalized Controllability Indices and Application for High-Precision Stage in Translation and Pitching</title>

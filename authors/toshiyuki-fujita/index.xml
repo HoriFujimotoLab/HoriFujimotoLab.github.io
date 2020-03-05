@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toshiyuki Fujita | UTokyo HFLab</title>
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/toshiyuki-fujita/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/toshiyuki-fujita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toshiyuki Fujita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Toshiyuki Fujita</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/toshiyuki-fujita/</link>
+    </image>
+    
+    <item>
+      <title>Recent progress of Wireless In-Wheel Motors for dymamic charging</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/cerv2020_fujita/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/cerv2020_fujita/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daisuke Gunji | UTokyo HFLab</title>
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/daisuke-gunji/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/daisuke-gunji/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daisuke Gunji</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Daisuke Gunji</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/daisuke-gunji/</link>
+    </image>
+    
+    <item>
+      <title>Influence of Tire on Wireless Power Transfer from Road to Electric Vehicle</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charging Infrastructure Design for In-motion WPT Based on Sensorless Vehicle Detection System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility Study on In-motion Wireless Power Transfer System Before Traffic Lights Section</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_gunji/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_gunji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Inductance Modeling of In-wheel Arc-shaped Coil for In-motion WPT</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_shimizu/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_shimizu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

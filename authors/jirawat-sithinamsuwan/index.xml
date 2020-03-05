@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jirawat Sithinamsuwan | UTokyo HFLab</title>
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/jirawat-sithinamsuwan/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/jirawat-sithinamsuwan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jirawat Sithinamsuwan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jirawat Sithinamsuwan</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/jirawat-sithinamsuwan/</link>
+    </image>
+    
+    <item>
+      <title>Sensorless Automatic Stop Control of Electric Vehicle in Semi-dynamic Wireless Charging System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stop Position Estimation for Automatic Stop Control of Electric Vehicle in Semi-dynamic Wireless Charging System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

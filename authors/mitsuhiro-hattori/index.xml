@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitsuhiro Hattori | UTokyo HFLab</title>
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/mitsuhiro-hattori/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/mitsuhiro-hattori/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mitsuhiro Hattori</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mitsuhiro Hattori</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/mitsuhiro-hattori/</link>
+    </image>
+    
+    <item>
+      <title>Energy Efficient Autonomous Driving of Electric Vehicle with Real-Time Optimization Using Linear Quadratic Regulator</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hattori/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hattori/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

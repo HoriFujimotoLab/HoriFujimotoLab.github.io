@@ -5,12 +5,92 @@
     <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yoichi-hori/</link>
       <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/yoichi-hori/index.xml" rel="self" type="application/rss+xml" />
     <description>Yoichi Hori</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yoichi Hori</title>
       <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yoichi-hori/</link>
     </image>
+    
+    <item>
+      <title>Performance Benchmark of Yaw Rate Controllers by Active Front Steering: Comparative Analysis of Model Predictive Control, Linear Quadratic Regulator and Yaw Moment Observer</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_miyahara/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_miyahara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorless Vehicle Detection Using Voltage Pulses with Envelope Model for In-motion Wireless Power Transfer System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Tire on Wireless Power Transfer from Road to Electric Vehicle</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/irc2019_utsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charging Infrastructure Design for In-motion WPT Based on Sensorless Vehicle Detection System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_hata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling Coefficient Estimation for Wireless Power Transfer System at Constant Input Power Operation        </title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_nawada/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_nawada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorless Automatic Stop Control of Electric Vehicle in Semi-dynamic Wireless Charging System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/wow2019_sithinamsuwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedforward Transient Control for In-motion Wireless Power Transfer using Envelope Model</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gear Collision Reduction of In-wheel-motor by Joint Torque Control Using Load-side High-resolution Encoder</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_wakui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stop Position Estimation for Automatic Stop Control of Electric Vehicle in Semi-dynamic Wireless Charging System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_sithinamsuwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vibration Control for Electric Vehicle with In-Wheel Motors on Slippery Road using Driving Force Control</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_suzuki/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_suzuki/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perfect Tracking Control Considering Generalized Controllability Indices and Application for High-Precision Stage in Translation and Pitching</title>

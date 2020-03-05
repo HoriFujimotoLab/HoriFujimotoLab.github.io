@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keiichiro Tokita | UTokyo HFLab</title>
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keiichiro Tokita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Keiichiro Tokita</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/keiichiro-tokita/</link>
+    </image>
+    
+    <item>
+      <title>Sensorless Vehicle Detection Using Voltage Pulses with Envelope Model for In-motion Wireless Power Transfer System</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_tokita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedforward Transient Control for In-motion Wireless Power Transfer using Envelope Model</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/icm2019_tokita/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

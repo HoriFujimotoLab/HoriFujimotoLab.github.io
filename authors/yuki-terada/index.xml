@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuki Terada | UTokyo HFLab</title>
+    <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yuki-terada/</link>
+      <atom:link href="https://publication.hflab.k.u-tokyo.ac.jp/authors/yuki-terada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuki Terada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://publication.hflab.k.u-tokyo.ac.jp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuki Terada</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/authors/yuki-terada/</link>
+    </image>
+    
+    <item>
+      <title>Projection-based Iterative Learning Control for Ball-screw-driven Stage Using Basis Function and Data-based Friction Model</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_hayashi/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/iecon2019_hayashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Study of Iterative Learning Control Using Basis Functions for Various Tasks of a Ball-screw-driven Stage</title>
+      <link>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hayashi/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://publication.hflab.k.u-tokyo.ac.jp/publication/2019/samcon2019_hayashi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
